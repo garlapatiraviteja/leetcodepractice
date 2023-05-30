@@ -42,7 +42,7 @@ else:
             digits.insert(0,1)  
 
         return digits    '''
-          
+           
        """            
         
         
